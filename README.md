@@ -1,4 +1,4 @@
-# <h2>Linux-Mini-Shell</h2>
+# <h2>Unix Shell Implementation </h2>
 POSIX compatible shell with a subset of feature support of default linux shell executing all the basic commands such as ls,echo,cat etc. Apart from basic working
 other features are also implemented.
 
